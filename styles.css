@@ -1,0 +1,13 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 95vw;
+    height: 95vh;
+}
+
+#myChart{
+    background-color: rgb(247, 247, 248);
+    border-radius: 1vmin;
+    width: 100%;
+    height: 100%;
+}
